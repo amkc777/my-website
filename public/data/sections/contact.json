@@ -5,23 +5,25 @@
             "title_long_prefix": "Don't hesitate to",
             "title_long": "**Contact** Me"
         },
-
         "es": {
             "title": "Contacto",
             "title_long_prefix": "No dudes en",
             "title_long": "**Contácta**me"
         },
-
-        "fr": {
-            "title": "Contact",
-            "title_long_prefix": "N'hésitez pas à",
-            "title_long": "Me **Contacter**"
+        "te": {
+            "title": "సంప్రదింపు",
+            "title_long_prefix": "చ Hesitate చేయకండి",
+            "title_long": "**సంప్రదించండి** నాతో"
         },
-
-        "ko": {
-            "title": "연락처",
-            "title_long_prefix": "주저하지 말고",
-            "title_long": "**연락** 주세요"
+        "hi": {
+            "title": "संपर्क",
+            "title_long_prefix": "संकोच न करें",
+            "title_long": "**मुझसे** संपर्क करें"
+        },
+        "sa": {
+            "title": "संपर्क",
+            "title_long_prefix": "संकोच न करो",
+            "title_long": "**संपर्क** करो मुझसे"
         }
     },
 
@@ -33,13 +35,12 @@
             "locales": {
                 "en": {"title": "Send me a **message**"},
                 "es": {"title": "Envíame un **mensaje**"},
-                "fr": {"title": "Envoyez-moi un **message**"},
-                "ko": {"title": "**메시지를** 보내주세요"}
+                "te": {"title": "**సందేశం** పంపండి"},
+                "hi": {"title": "**संदेश** भेजें"},
+                "sa": {"title": "**संदेशं** प्रेषय"}
             },
-
             "items": null
         },
-
         {
             "id": "contact_list",
             "component": "ArticleGrid",
@@ -49,15 +50,15 @@
             "locales": {
                 "en": {"title": "Or if you **prefer**..."},
                 "es": {"title": "O si **prefieres**..."},
-                "fr": {"title": "Ou si vous **préférez**..."},
-                "ko": {"title": "또는 **원하시면**..."}
+                "te": {"title": "లేదా మీరు **తెచ్చుకుంటే**..."},
+                "hi": {"title": "या यदि आप **पसंद करते हैं**..."},
+                "sa": {"title": "Athavā yadi bhavān **kāmaste**..."}
             },
-
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+1 (971) 398-8654",
                     "links": [
-                        {"href": "tel:11234567890"}
+                        {"href": "tel:9713988654"}
                     ],
                     "icon": {
                         "img": null,
@@ -67,15 +68,15 @@
                     "locales": {
                         "en": {"title": "Phone"},
                         "es": {"title": "Teléfono"},
-                        "fr": {"title": "Téléphone"},
-                        "ko": {"title": "전화"}
+                        "te": {"title": "ఫోన్"},
+                        "hi": {"title": "फोन"},
+                        "sa": {"title": "दूरवाणी"}
                     }
                 },
-
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "mohanakrishna.alla07@gmail.com",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "mailto:mohanakrishna.alla07@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -84,12 +85,14 @@
                     },
                     "locales": {
                         "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
+                        "es": {"title": "Correo Electrónico"},
+                        "te": {"title": "ఈ-మెయిల్"},
+                        "hi": {"title": "ई-मेल"},
+                        "sa": {"title": "ई-पत्रम्"}
                     }
                 },
-
                 {
-                    "value": "@markchoi",
+                    "value": "@amkc777",
                     "links": [
                         {"href": "https://linkedin.com"}
                     ],
@@ -99,52 +102,29 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "Linkedin"}
+                        "en": {"title": "Linkedin"},
+                        "es": {"title": "Linkedin"},
+                        "te": {"title": "లింక్డ్ఇన్"},
+                        "hi": {"title": "लिंक्डइन"},
+                        "sa": {"title": "लिङ्कडिन"}
                     }
                 },
-
                 {
-                    "value": "Mark Choi",
+                    "value": "@amkc07",
                     "links": [
-                        {"href": "https://facebook.com"}
+                        {"href": "https://medium.com/"}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-facebook",
+                        "fa": "fa-brands fa-medium",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "Facebook"}
-                    }
-                },
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://instagram.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-instagram",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Instagram"}
-                    }
-                },
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://tiktok.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-tiktok",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "TikTok"}
+                        "en": {"title": "Medium"},
+                        "es": {"title": "Medium"},
+                        "te": {"title": "మీడియం"},
+                        "hi": {"title": "मीडियम"},
+                        "sa": {"title": "माध्यम"}
                     }
                 }
             ]

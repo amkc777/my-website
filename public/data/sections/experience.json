@@ -11,17 +11,20 @@
             "title_long_prefix": "Resumen de mi",
             "title_long": "Experiencia **Laboral**"
         },
-
-        "fr": {
-            "title": "Expérience",
-            "title_long_prefix": "Résumé de mon",
-            "title_long": "Parcours **Professionel**"
+        "te": {
+            "title": "అనుభవం",
+            "title_long_prefix": "నా",
+            "title_long": "**వ్యవసాయ** అనుభవం"
         },
-
-        "ko": {
-            "title": "경험",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**직업적** 경험"
+        "hi": {
+            "title": "अनुभव",
+            "title_long_prefix": "मेरे",
+            "title_long": "**कार्य** अनुभव"
+        },
+        "sa": {
+            "title": "अनुभव",
+            "title_long_prefix": "मम",
+            "title_long": "**कार्य** अनुभव"
         }
     },
 
@@ -35,149 +38,131 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/place-7.png",
+                        "img": "images/pictures/place-ATT.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "03/01/2016",
-                        "end": "06/01/2018"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "**Backend** Developer",
-                            "info": "Sapphire Studio",
-                            "text": "Developed and maintained scalable backend systems for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
-                            "tags": ["PHP", "MySQL", "Laravel"]
-                        },
-                        "es": {
-                            "title": "Desarrollador **Backend**",
-                            "info": "Sapphire Studio",
-                            "text": "Desarrollé y mantuve sistemas backend escalables para varios clientes, optimizando el rendimiento de la base de datos e implementando APIs RESTful para mejorar la funcionalidad de la aplicación.",
-                            "tags": null
-                        },
-                        "fr": {
-                            "title": "Développeur **Backend**",
-                            "info": "Sapphire Studio",
-                            "text": "Développé et maintenu des systèmes backend évolutifs pour divers clients, optimisant les performances de la base de données et implémentant des APIs RESTful pour améliorer la fonctionnalité de l'application.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "**백엔드** 개발자",
-                            "info": "사파이어 스튜디오",
-                            "text": "여러 클라이언트를 위해 확장 가능한 백엔드 시스템을 개발하고 유지 관리하며, 데이터베이스 성능을 최적화하고 애플리케이션 기능을 개선하기 위해 RESTful API를 구현했습니다.",
-                            "tags": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": "images/pictures/place-3.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "dates": {
-                        "start": "06/01/2018",
-                        "end": "12/01/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "**Full-Stack** Engineer",
-                            "info": "Coursera",
-                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
-                            "tags": ["JavaScript", "React", "Node.js", "PHP", "REST", "Docker"]
-                        },
-                        "es": {
-                            "title": "Ingeniero **Full-Stack**",
-                            "info": "Coursera",
-                            "text": "Participé en la mejora del sitio web de Coursera al implementar nuevas funcionalidades y optimizar la experiencia del usuario, utilizando tecnologías de frontend y backend para asegurar un funcionamiento sin problemas.",
-                            "tags": null
-                        },
-                        "fr": {
-                            "title": "Ingénieur **Full-Stack**",
-                            "info": "Coursera",
-                            "text": "J'ai contribué à l'amélioration du site Web de Coursera en ajoutant de nouvelles fonctionnalités et en optimisant l'expérience utilisateur, en utilisant des technologies frontend et backend pour garantir un fonctionnement fluide.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "**풀스택** 엔지니어",
-                            "info": "코세라",
-                            "text": "Coursera 웹사이트를 개선하기 위해 새로운 기능을 추가하고 사용자 경험을 최적화했습니다. 원활한 기능을 보장하기 위해 프론트엔드와 백엔드 기술을 모두 활용했습니다.",
-                            "tags": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": "images/pictures/place-1.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "dates": {
-                        "start": "12/01/2020",
-                        "end": "11/01/2022"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "**Backend** Engineer",
-                            "info": "Adobe Inc.",
-                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
-                            "tags": ["Java", "AWS", "REST", "Docker"]
-                        },
-                        "es": {
-                            "title": "Ingeniero **Backend**",
-                            "info": "Adobe Inc.",
-                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia en el procesamiento de datos mediante funciones en la nube.",
-                            "tags": null
-                        },
-                        "fr": {
-                            "title": "Ingénieur **Backend**",
-                            "info": "Adobe Inc.",
-                            "text": "J'ai contribué au développement de systèmes backend solides pour Adobe Creative Cloud, intégrant des services tiers et améliorant l'efficacité du traitement des données grâce aux fonctions cloud.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "**백엔드** 엔지니어",
-                            "info": "어도비 주식회사",
-                            "text": "Adobe Creative Cloud를 위한 강력한 백엔드 시스템 개발에 기여하였으며, 타사 서비스 통합과 클라우드 기능을 통해 데이터 처리 효율성을 향상시켰습니다.",
-                            "tags": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-apple",
-                        "faColors": {"bg": "#111", "fill": "#EEE"}
-                    },
-                    "dates": {
-                        "start": "12/01/2022",
+                        "start": "06/01/2024",
                         "end": "now"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Senior Backend** Developer",
-                            "info": "Apple Inc.",
-                            "text": "<p>Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Swift, PHP, and GraphQL</li></ul> <p class='mt-3'>Together, we ensure Apple's backend infrastructure stays robust and efficient.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "**Data Engineer**",
+                            "info": "AT&T, Plano, Texas",
+                            "text": "As a Data Engineer at AT&T, I am responsible for architecting and implementing scalable data ingestion workflows that integrate diverse data sources into Azure Data Lake Storage (ADLS) Gen2 using Azure Data Factory (ADF). I also leverage Databricks for data processing, enabling complex transformations and analytics before exporting data to Snowflake. My contributions enhance data accessibility for analytics and reporting, significantly improving decision-making processes across teams.",
+                            "tags": ["Data Lake", "Data Ingestion", "Azure Data Factory", "ETL", "Data Architecture", "Big Data", "Databricks", "Snowflake"]
                         },
                         "es": {
-                            "title": "Desarrollador **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:</p> <ul><li>Seguridad</li><li>Escalabilidad para manejar millones de usuarios a nivel global</li><li>Desarrollar APIs RESTful</li><li>Optimizar el rendimiento de bases de datos con PostgreSQL</li><li>Construcción de servicios con Swift, PHP y GraphQL</li></ul> <p class='mt-3'>Juntos, aseguramos que la infraestructura backend de Apple se mantenga robusta y eficiente.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "**Ingeniero de Datos**",
+                            "info": "AT&T, Plano, Texas",
+                            "text": "Como Ingeniero de Datos en AT&T, soy responsable de arquitectar e implementar flujos de trabajo de ingestión de datos escalables que integran diversas fuentes de datos en Azure Data Lake Storage (ADLS) Gen2 utilizando Azure Data Factory (ADF). También utilizo Databricks para el procesamiento de datos, permitiendo transformaciones y análisis complejos antes de exportar datos a Snowflake. Mis contribuciones mejoran la accesibilidad de los datos para análisis e informes, mejorando significativamente los procesos de toma de decisiones en los equipos.",
+                            "tags": ["Data Lake", "Data Ingestion", "Azure Data Factory", "ETL", "Data Architecture", "Big Data", "Databricks", "Snowflake"]
                         },
-                        "fr": {
-                            "title": "Développeur **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Dirigeant une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services d'Apple, en se concentrant sur:</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données avec PostgreSQL</li><li>Création de services avec Swift, PHP et GraphQL</li></ul> <p class='mt-3'>Ensemble, nous assurons que l'infrastructure backend d'Apple reste robuste et efficace.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        "te": {
+                            "title": "**డేటా ఇంజనీర్**",
+                            "info": "AT&T, ప్లానో, టెక్సాస్",
+                            "text": "AT&Tలో డేటా ఇంజనీర్‌గా, నేను Azure Data Lake Storage (ADLS) Gen2లో వివిధ డేటా మూలాలను సమకూర్చే స్కేలబుల్ డేటా ఇంజెక్షన్ వర్క్‌ఫ్లోలను నిర్మించడం మరియు అమలు చేయడానికి బాధ్యత వహిస్తున్నాను. Databricks ఉపయోగించి డేటా ప్రాసెసింగ్ కోసం నేను పని చేస్తున్నాను, దీని ద్వారా కాంప్లెక్స్ ట్రాన్స్‌ఫర్మేషన్స్ మరియు విశ్లేషణలకు అనుమతించబడుతుంది, తరువాత డేటాను Snowflake కు ఎగుమతి చేస్తున్నాను. నా కృషి విశ్లేషణ మరియు నివేదిక కోసం డేటా అందుబాటును మెరుగుపరుస్తుంది, టీమ్‌ల మధ్య నిర్ణయాల ప్రక్రియలను ఎంతో మెరుగుపరుస్తుంది.",
+                            "tags": ["Data Lake", "Data Ingestion", "Azure Data Factory", "ETL", "Data Architecture", "Big Data", "Databricks", "Snowflake"]
                         },
-                        "ko": {
-                            "title": "**수석 백엔드** 개발자",
-                            "info": "애플 주식회사",
-                            "text": "<p>Apple 서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>우리는 함께 Apple의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        "hi": {
+                            "title": "**डेटा इंजीनियर**",
+                            "info": "AT&T, प्लानो, टेक्सास",
+                            "text": "AT&T में एक डेटा इंजीनियर के रूप में, मैं Azure Data Lake Storage (ADLS) Gen2 में विविध डेटा स्रोतों को एकीकृत करने वाले स्केलेबल डेटा इनजेक्शन वर्कफ़्लो को आर्किटेक्ट करने और कार्यान्वित करने के लिए जिम्मेदार हूं। मैं डेटा प्रोसेसिंग के लिए Databricks का उपयोग करता हूं, जो जटिल परिवर्तनों और विश्लेषण की अनुमति देता है, इसके बाद डेटा को Snowflake में निर्यात किया जाता है। मेरी योगदान निर्णय लेने की प्रक्रियाओं को महत्वपूर्ण रूप से सुधारते हुए, विश्लेषण और रिपोर्टिंग के लिए डेटा की पहुंच को बढ़ाते हैं।",
+                            "tags": ["Data Lake", "Data Ingestion", "Azure Data Factory", "ETL", "Data Architecture", "Big Data", "Databricks", "Snowflake"]
+                        },
+                        "sa": {
+                            "title": "**दत्तासंजीवकः**",
+                            "info": "AT&T, Plano, Texas",
+                            "text": "AT&T इत्यस्मिन् दत्तासंजीवकः इति पदे, अहं Azure Data Lake Storage (ADLS) Gen2 इत्यस्मिन् विविधदत्तस्रोतानां समाकर्षणाय स्केलेबल दत्ताग्रहणकार्याणि सञ्जायताम् इति उत्तरदायित्वं वहामि। Databricks इत्यस्मिन् दत्तप्रसंस्करणं कृत्वा, जटिलपरिवर्तनानि च विश्लेषणानि च करणीयानि, अनन्तरं दत्तांशानि Snowflake इत्यस्मिन् निर्यातं कृतम्। मम योगदानानि निर्णयप्रक्रियाणां साक्षात्कारं कृत्वा, विश्लेषणाय च विवरणाय च दत्तांशानां अभिगम्यतां वर्धयन्ति।",
+                            "tags": ["Data Lake", "Data Ingestion", "Azure Data Factory", "ETL", "Data Architecture", "Big Data", "Databricks", "Snowflake"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-Astute.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "05/01/2023",
+                        "end": "06/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Data Science Intern**",
+                            "info": "Astute LLC, Naperville, IL",
+                            "text": "During my internship at Astute LLC, I focused on analyzing complex financial datasets. Utilizing Databricks and machine learning algorithms, I identified trends and patterns that enhanced the accuracy of financial forecasting. My work contributed to the optimization of data accuracy and informed strategic decision-making, resulting in improved financial performance for the company.",
+                            "tags": ["Machine Learning", "Databricks","Financial Analysis", "Data Visualization", "Predictive Modeling", "Statistical Analysis", "Data Mining", "Business Intelligence"]
+                        },
+                        "es": {
+                            "title": "**Practicante de Ciencia de Datos**",
+                            "info": "Astute LLC, Naperville, IL",
+                            "text": "Durante mi pasantía en Astute LLC, me enfoqué en analizar conjuntos de datos financieros complejos. Utilizando Databricks y algoritmos de aprendizaje automático, identifiqué tendencias y patrones que mejoraron la precisión de las previsiones financieras. Mi trabajo contribuyó a la optimización de la precisión de los datos y a la toma de decisiones estratégicas, resultando en una mejora del rendimiento financiero de la empresa.",
+                            "tags": ["Machine Learning", "Databricks","Financial Analysis", "Data Visualization", "Predictive Modeling", "Statistical Analysis", "Data Mining", "Business Intelligence"]
+                        },
+                        "te": {
+                            "title": "**డేటా సైన్స్ ఇంటర్న్**",
+                            "info": "Astute LLC, Naperville, IL",
+                            "text": "Astute LLCలో నా ఇంటర్న్‌షిప్ సమయంలో, నేను సంక్లిష్ట ఆర్థిక డేటా సెట్‌లను విశ్లేషించడంపై దృష్టి పెట్టాను. Databricks మరియు యాంత్రిక అభ్యాస అల్గోరిథమ్స్ ఉపయోగించి, ఆర్థిక అంచనాల ఖచ్చితత్వాన్ని మెరుగుపరచడానికి ధోరణులు మరియు నమూనాలను గుర్తించాను. నా పని డేటా ఖచ్చితత్వాన్ని సరిదిద్దడంలో మరియు వ్యూహాత్మక నిర్ణయాలను తీసుకోవడంలో సహాయపడింది, సంస్థకు ఆర్థిక పరమైన సామర్థ్యం మెరుగుపరచడంలో సహాయపడింది.",
+                            "tags": ["Machine Learning", "Databricks","Financial Analysis", "Data Visualization", "Predictive Modeling", "Statistical Analysis", "Data Mining", "Business Intelligence"]
+                        },
+                        "hi": {
+                            "title": "**डेटा साइंस इंटर्न**",
+                            "info": "Astute LLC, Naperville, IL",
+                            "text": "Astute LLC में मेरे इंटर्नशिप के दौरान, मैंने जटिल वित्तीय डेटा सेट का विश्लेषण करने पर ध्यान केंद्रित किया। Databricks और मशीन लर्निंग एल्गोरिदम का उपयोग करते हुए, मैंने रुझानों और पैटर्नों की पहचान की, जिसने वित्तीय पूर्वानुमान की सटीकता को बढ़ाया। मेरा काम डेटा की सटीकता के अनुकूलन में योगदान दिया और रणनीतिक निर्णय लेने को सूचित किया, जिसके परिणामस्वरूप कंपनी के लिए वित्तीय प्रदर्शन में सुधार हुआ।",
+                            "tags": ["Machine Learning", "Databricks","Financial Analysis", "Data Visualization", "Predictive Modeling", "Statistical Analysis", "Data Mining", "Business Intelligence"]
+                        },
+                        "sa": {
+                            "title": "**दत्तासंस्कारकः इंटर्नः**",
+                            "info": "Astute LLC, Naperville, IL",
+                            "text": "Astute LLC इत्यस्मिन् मम इंटर्नशिप्कालस्य, अहं जटिल वित्तीय दत्तांशानां विश्लेषणं कृत्वा अधिकं ध्यानं ददामि। Databricks च यान्त्रिकाध्ययनेन, प्रवृत्तीनां तथा रूपाणां गत्याः स्पष्टयित्वा वित्तीय पूर्वानुमानस्य सटीकता वर्धिता। मम कार्यं दत्तांशस्य सटीकता च सुसङ्गतस्य निर्णयानां दत्तं च, यः फलं च वित्तीय प्रदर्शनस्य सुधारं च उपस्थापयति।",
+                            "tags": ["Machine Learning", "Databricks","Financial Analysis", "Data Visualization", "Predictive Modeling", "Statistical Analysis", "Data Mining", "Business Intelligence"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-OSI.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/01/2018",
+                        "end": "12/31/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Data Engineer**",
+                            "info": "OSI Digital, Hyderabad, India",
+                            "text": "In my role as a Data Engineer at OSI Digital, I successfully developed and implemented end-to-end data solutions on AWS. This included designing and building ETL processes that improved data processing efficiency by 30%. My work involved close collaboration with cross-functional teams to ensure data integrity and availability, thereby facilitating insightful analytics and business intelligence reporting.",
+                            "tags": ["AWS", "Informatica", "Redshift", "ETL Development", "Data Warehousing", "Data Integration", "AWS Services", "SQL", "Data Quality"]
+                        },
+                        "es": {
+                            "title": "**Ingeniero de Datos**",
+                            "info": "OSI Digital, Hyderabad, India",
+                            "text": "En mi papel como Ingeniero de Datos en OSI Digital, desarrollé e implementé con éxito soluciones de datos de extremo a extremo en AWS. Esto incluyó el diseño y la construcción de procesos ETL que mejoraron la eficiencia del procesamiento de datos en un 30%. Mi trabajo involucró una estrecha colaboración con equipos multifuncionales para garantizar la integridad y disponibilidad de los datos, facilitando así análisis perspicaces e informes de inteligencia empresarial.",
+                            "tags": ["AWS", "Informatica", "Redshift", "ETL Development", "Data Warehousing", "Data Integration", "AWS Services", "SQL", "Data Quality"]
+                        },
+                        "te": {
+                            "title": "**డేటా ఇంజనీర్**",
+                            "info": "OSI Digital, హైదరాబాద్, భారతదేశం",
+                            "text": "OSI Digitalలో డేటా ఇంజనీర్‌గా, నేను AWS పై పూర్తి స్థాయి డేటా పరిష్కారాలను అభివృద్ధి చేసి అమలు చేయడంలో విజయవంతమయ్యాను. ఇందులో 30% సమర్థవంతమైన డేటా ప్రాసెసింగ్‌ను మెరుగుపరిచే ETL ప్రక్రియలను రూపకల్పన చేయడం మరియు నిర్మించడం వుంది. నా పని డేటా సమగ్రత మరియు అందుబాటును నిర్ధారించడానికి క్రాస్-ఫంక్షనల్ టీమ్‌లతో సమీప సహకారం అవసరమైంది, తద్వారా అర్ధవంతమైన విశ్లేషణ మరియు వ్యాపార మేధస్సు నివేదికలను నిర్వహించడం సులభమైంది.",
+                            "tags": ["AWS", "Informatica", "Redshift", "ETL Development", "Data Warehousing", "Data Integration", "AWS Services", "SQL", "Data Quality"]
+                        },
+                        "hi": {
+                            "title": "**डेटा इंजीनियर**",
+                            "info": "OSI Digital, हैदराबाद, भारत",
+                            "text": "OSI Digital में डेटा इंजीनियर के रूप में, मैंने AWS पर एंड-टू-एंड डेटा समाधानों को सफलतापूर्वक विकसित और कार्यान्वित किया। इसमें ऐसे ETL प्रक्रियाओं का डिज़ाइन और निर्माण शामिल था जिसने डेटा प्रसंस्करण क्षमता में 30% सुधार किया। मेरा कार्य डेटा की अखंडता और उपलब्धता सुनिश्चित करने के लिए क्रॉस-फंक्शनल टीमों के साथ करीबी सहयोग करना था, जिससे अंतर्दृष्टिपूर्ण विश्लेषण और व्यावसायिक बुद्धिमत्ता रिपोर्टिंग को सक्षम बनाया जा सके।",
+                            "tags": ["AWS", "Informatica", "Redshift", "ETL Development", "Data Warehousing", "Data Integration", "AWS Services", "SQL", "Data Quality"]
+                        },
+
+                        "sa": {
+                            "title": "**दत्तासंजीवकः**",
+                            "info": "OSI Digital, हैदराबाद, भारत",
+                            "text": "OSI Digital इत्यस्मिन् दत्तासंजीवकः इति पदे, अहं AWS इत्यस्मिन् सम्पूर्णतया दत्त समाधानानां विकासं च कार्यान्वयनं च साधयामि। अस्मिन् ETL प्रक्रियाणां रचनां च निर्माणं च साधयित्वा, 30% दत्तप्रसंस्करणस्य क्षमतां वर्धितम्। मम कार्यं दत्तानां सम्पूर्णता च उपलब्धता च सुनिश्चितं कृत्वा क्रॉस-फंक्शनल कार्यदलैः सह सन्निकर्षेण सहकार्यं कृत्वा, अतोऽस्मिन् परिणामे विश्लेषणं च व्यवसायस्मिताः विवरणानि च सम्पन्नानि।",
+                            "tags": ["AWS", "Informatica", "Redshift", "ETL Development", "Data Warehousing", "Data Integration", "AWS Services", "SQL", "Data Quality"]
                         }
                     }
                 }

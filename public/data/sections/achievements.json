@@ -6,26 +6,29 @@
             "title_long_prefix": "Here are my",
             "title_long": "Career **Achievements**"
         },
-
         "es": {
             "title": "Logros",
             "title_menu": "Logros",
             "title_long_prefix": "Aquí están mis",
             "title_long": "**Logros** Profesionales"
         },
-
-        "fr": {
-            "title": "Réalis",
-            "title_menu": "Réalisations",
-            "title_long_prefix": "Voici",
-            "title_long": "Mes **Réalisations**"
+        "te": {
+            "title": "సాధనలు",
+            "title_menu": "సాధనలు",
+            "title_long_prefix": "ఇక్కడ నా",
+            "title_long": "**సాధనలు**"
         },
-
-        "ko": {
-            "title": "경력 성과",
-            "title_menu": "경력 성과",
-            "title_long_prefix": "다음은",
-            "title_long": "**경력 성과**입니다"
+        "hi": {
+            "title": "उपलब्धियाँ",
+            "title_menu": "उपलब्धियाँ",
+            "title_long_prefix": "यहां मेरी",
+            "title_long": "**उपलब्धियाँ**"
+        },
+        "sa": {
+            "title": "उपलब्धिः",
+            "title_menu": "उपलब्धिः",
+            "title_long_prefix": "अत्र मम",
+            "title_long": "**उपलब्धिः**"
         }
     },
 
@@ -37,8 +40,9 @@
             "locales": {
                 "en": { "title": "Certifications" },
                 "es": { "title": "Certificaciones" },
-                "fr": { "title": "Certifications" },
-                "ko": { "title": "인증서" }
+                "te": { "title": "సర్టిఫికేషన్" },
+                "hi": { "title": "प्रमाण पत्र" },
+                "sa": { "title": "प्रमाणपत्र" }
             },
 
             "items": [
@@ -46,115 +50,127 @@
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-life-ring",
-                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                        "faColors": { "bg": "#326CE5", "fill": "#EEE" }
                     },
                     "dates": {
-                        "start": "12/01/2020",
+                        "start": "12/01/2022",
                         "end": null
                     },
                     "links": [
-                        { "string": "see_certification", "href": "https://www.linuxfoundation.org/" }
+                        { "string": "see_certification", "href": "https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "The **Linux Foundation**",
-                            "text": "Certified Kubernetes Administrator (CKA)"
+                            "title": "Microsoft",
+                            "text": "Azure AI Engineer Associate (AI-102)"
                         },
                         "es": {
-                            "text": "Administrador Kubernetes Certificado (CKA)"
+                            "text": "Asociado de IA de Azure (AI-102)"
                         },
-                        "fr": {
-                            "text": "Administrateur Kubernetes Certifié (CKA)"
+                        "te": {
+                            "text": "ఆజూర్ AI ఇంజినీర్ అసోసియేట్ (AI-102)"
                         },
-                        "ko": {
-                            "text": "인증된 쿠버네티스 관리자 (CKA)"
+                        "hi": {
+                            "text": "एज़्योर एआई इंजीनियर एसोसिएट (AI-102)"
+                        },
+                        "sa": {
+                            "text": "आज़ूरे आभार का सहकारी (AI-102)"
                         }
                     }
                 },
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-aws",
-                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                        "fa": "fa-brands fa-google",
+                        "faColors": { "bg": "#FFD700", "fill": "#111" }
                     },
                     "dates": {
-                        "start": "05/05/2021",
+                        "start": "07/01/2022",
                         "end": null
                     },
                     "links": [
-                        { "string": "see_certification", "href": "https://www.aws.com/" }
+                        { "string": "see_certification", "href": "https://www.coursera.org/professional-certificates/google-data-analytics" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "**Amazon** Web Services",
-                            "text": "AWS Certified Solutions Architect – Associate"
+                            "title": "Google",
+                            "text": "Data Analytics Specialization"
                         },
                         "es": {
-                            "text": "Arquitecto de Soluciones Certificado de AWS – Asociado"
+                            "text": "Especialización en Análisis de Datos"
                         },
-                        "fr": {
-                            "text": "Architecte de Solutions Certifié AWS – Associé"
+                        "te": {
+                            "text": "డేటా విశ్లేషణ ప్రత్యేకత"
                         },
-                        "ko": {
-                            "text": "AWS 인증 솔루션 아키텍트 – 어소시에이트"
+                        "hi": {
+                            "text": "डेटा एनालिटिक्स स्पेशलाइजेशन"
+                        },
+                        "sa": {
+                            "text": "दत्तांश विश्लेषण विशेषता"
                         }
                     }
                 },
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-java",
-                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                        "fa": "fa-solid fa-check",
+                        "faColors": { "bg": "#007396", "fill": "#EEE" }
                     },
                     "dates": {
-                        "start": "05/05/2022",
-                        "end": null
+                        "start": "02/01/2022",
+                        "end": "04/30/2022"
                     },
                     "links": [
-                        { "string": "see_certification", "href": "https://www.oracle.com/" }
+                        { "string": "see_certification", "href": "https://www.sixsigmaonline.org/six-sigma-certification/lean-six-sigma-yellow-belt-certification/" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "**Oracle**",
-                            "text": "Certified Java Developer"
+                            "title": "Lean Six Sigma",
+                            "text": "Yellow Belt Certification"
                         },
                         "es": {
-                            "text": "Desarrollador Java Certificado"
+                            "text": "Certificación Yellow Belt de Lean Six Sigma"
                         },
-                        "fr": {
-                            "text": "Développeur Java Certifié"
+                        "te": {
+                            "text": "లీన్ సిక్స్ సిగ్మా పసుపు బెల్ట్ సర్టిఫికేట్"
                         },
-                        "ko": {
-                            "text": "인증된 자바 개발자"
+                        "hi": {
+                            "text": "लीन सिक्स सिग्मा पीले बेल्ट प्रमाणपत्र"
+                        },
+                        "sa": {
+                            "text": "लीन सिक्स सिग्मा पीत पट्ट का प्रमाणपत्र"
                         }
                     }
                 },
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-database",
-                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                        "fa": "fa-solid fa-graduation-cap",
+                        "faColors": { "bg": "#47A248", "fill": "#EEE" }
                     },
                     "dates": {
-                        "start": "08/15/2023",
+                        "start": "08/01/2022",
                         "end": null
                     },
                     "links": [
-                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                        { "string": "see_certification", "href": "https://www.datacamp.com/courses/data-analytics-fundamentals-in-python" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "**MongoDB** University",
-                            "text": "MongoDB Certified Developer"
+                            "title": "DataCamp",
+                            "text": "Data Analytics Fundamentals"
                         },
                         "es": {
-                            "text": "Desarrollador Certificado en MongoDB"
+                            "text": "Fundamentos de Análisis de Datos"
                         },
-                        "fr": {
-                            "text": "Développeur Certifié MongoDB"
+                        "te": {
+                            "text": "డేటా విశ్లేషణ మూలాలు"
                         },
-                        "ko": {
-                            "text": "몽고디비 인증 개발자"
+                        "hi": {
+                            "text": "डेटा एनालिटिक्स फंडामेंटल्स"
+                        },
+                        "sa": {
+                            "text": "दत्तांश विश्लेषण मूलभूत"
                         }
                     }
                 }
@@ -162,134 +178,219 @@
         },
 
         {
-            "id": "awards",
+            "id": "projects",
             "component": "ArticleThread",
             "config": {},
             "locales": {
-                "en": { "title": "Awards" },
-                "es": { "title": "Premios" },
-                "fr": { "title": "Récompenses" },
-                "ko": { "title": "수상 내역" }
+                "en": { "title": "Projects" },
+                "es": { "title": "Proyectos" },
+                "te": { "title": "ప్రాజెక్టులు" },
+                "hi": { "title": "परियोजनाएँ" },
+                "sa": { "title": "परियोजनाः" }
             },
 
             "items": [
                 {
                     "dates": {
-                        "start": "09/01/2019",
+                        "start": null,
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "**Best Final Year Project** – Backend Optimization",
-                            "info": "MIT",
-                            "text": "Recognized for innovative work on optimizing backend systems for cloud environments, achieving significant performance improvements."
+                            "title": "**ETL Pipeline** with PySpark on EMR",
+                            "info": "Technologies: Python, Spark, AWS, EMR, Airflow, S3",
+                            "text": "Built an ETL pipeline using PySpark on Amazon EMR orchestrated with Apache Airflow."
                         },
                         "es": {
-                            "title": "**Mejor Proyecto de Fin de Carrera** – Optimización de Backend",
-                            "info": "MIT",
-                            "text": "Reconocido por su trabajo innovador en la optimización de sistemas backend para entornos en la nube, logrando importantes mejoras en el rendimiento."
+                            "title": "**ETL Pipeline** con PySpark en EMR",
+                            "info": "Tecnologías: Python, Spark, AWS, EMR, Airflow, S3",
+                            "text": "Construí un pipeline ETL utilizando PySpark en Amazon EMR orquestado con Apache Airflow."
                         },
-                        "fr": {
-                            "title": "**Meilleur Projet de Fin d'Études** – Optimisation du Backend",
-                            "info": "MIT",
-                            "text": "Reconnu pour son travail innovant sur l'optimisation des systèmes backend pour les environnements cloud, avec des améliorations significatives des performances."
+                        "te": {
+                            "title": "**ETL పైప్‌లైన్** పాయ్‌స్పార్క్‌తో EMR వద్ద",
+                            "info": "తంత్రాలు: పాథాన్, స్పార్క్, AWS, EMR, ఎయిర్‌ఫ్లో, S3",
+                            "text": "అమెజాన్ EMR పై పాయ్‌స్పార్క్ ఉపయోగించి ETL పైప్‌లైన్‌ను నిర్మించాను."
                         },
-                        "ko": {
-                            "title": "**최우수 졸업 프로젝트** – 백엔드 최적화",
-                            "info": "MIT",
-                            "text": "클라우드 환경에서 백엔드 시스템을 최적화한 혁신적인 작업으로 성능을 크게 개선한 것으로 인정받았습니다."
+                        "hi": {
+                            "title": "**ETL पाइपलाइन** पायस्पार्क पर",
+                            "info": "प्रौद्योगिकियाँ: पायथन, स्पार्क, AWS, EMR, एयरफ्लो, S3",
+                            "text": "अमेज़न EMR पर पायस्पार्क का उपयोग करके ETL पाइपलाइन बनाई।"
+                        },
+                        "sa": {
+                            "title": "**ETL पङ्क्तिः** पायस्पार्क पर EMR",
+                            "info": "प्रविधयः: पायथन, स्पार्क, AWS, EMR, एयरफ्लो, S3",
+                            "text": "अमेज़न EMR पर पायस्पार्क का उपयोग करके ETL पङ्क्तिः निर्मितम्।"
                         }
                     }
                 },
                 {
                     "dates": {
-                        "start": "05/01/2020",
-                        "end": null
-                    },
-                    "links": [
-                        { "string": "more_info", "href": "https://github.com/torvalds/linux" }
-                    ],
-                    "locales": {
-                        "en": {
-                            "title": "**Top Contributor** – Open Source Backend Project",
-                            "info": "GitHub",
-                            "text": "Awarded for contributing to an open-source backend framework that improved scalability and reduced latency."
-                        },
-                        "es": {
-                            "title": "**Contribuidor Destacado** – Proyecto de Backend de Código Abierto",
-                            "info": "GitHub",
-                            "text": "Premiado por su contribución a un framework de backend de código abierto que mejoró la escalabilidad y redujo la latencia."
-                        },
-                        "fr": {
-                            "title": "**Meilleur Contributeur** – Projet Backend Open Source",
-                            "info": "GitHub",
-                            "text": "Récompensé pour sa contribution à un cadre backend open source qui a amélioré l'évolutivité et réduit la latence."
-                        },
-                        "ko": {
-                            "title": "**최우수 기여자** – 오픈 소스 백엔드 프로젝트",
-                            "info": "GitHub",
-                            "text": "확장성을 개선하고 지연 시간을 줄인 오픈 소스 백엔드 프레임워크에 기여한 공로로 수상했습니다."
-                        }
-                    }
-                },
-                {
-                    "dates": {
-                        "start": "11/01/2021",
+                        "start": null,
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "**1st Place** – Global API Design Challenge",
-                            "info": "API Developer Conference",
-                            "text": "Secured 1st place for developing a robust API with advanced features like real-time data processing and seamless integration."
+                            "title": "**EDA** on Health Demographics",
+                            "info": "Technologies: PySpark, Azure Databricks, Azure HDInsight",
+                            "text": "Conducted exploratory data analysis on health demographics using PySpark on Azure Databricks."
                         },
                         "es": {
-                            "title": "**1er Lugar** – Desafío Global de Diseño de API",
-                            "info": "Conferencia de Desarrolladores de API",
-                            "text": "Obtuvo el 1er lugar por desarrollar una API robusta con funciones avanzadas como procesamiento de datos en tiempo real e integración sin problemas."
+                            "title": "**EDA** en Demografía de la Salud",
+                            "info": "Tecnologías: PySpark, Azure Databricks, Azure HDInsight",
+                            "text": "Realicé un análisis exploratorio de datos sobre la demografía de la salud utilizando PySpark en Azure Databricks."
                         },
-                        "fr": {
-                            "title": "**1ère Place** – Défi Mondial de Conception d'API",
-                            "info": "Conférence des Développeurs d'API",
-                            "text": "A remporté la 1ère place pour avoir développé une API robuste avec des fonctionnalités avancées comme le traitement des données en temps réel et l'intégration transparente."
+                        "te": {
+                            "title": "**EDA** ఆరోగ్య జనగణనపై",
+                            "info": "తంత్రాలు: పాయ్‌స్పార్క్, ఆజూర్ డాటాబ్రిక్స్, ఆజూర్ HDInsight",
+                            "text": "ఆజూర్ డాటాబ్రిక్స్‌లో పాయ్‌స్పార్క్ ఉపయోగించి ఆరోగ్య జనగణనపై అన్వేషణాత్మక డేటా విశ్లేషణను నిర్వహించాను."
                         },
-                        "ko": {
-                            "title": "**1위** – 글로벌 API 디자인 챌린지",
-                            "info": "API 개발자 컨퍼런스",
-                            "text": "실시간 데이터 처리 및 원활한 통합과 같은 고급 기능을 갖춘 강력한 API를 개발하여 1위를 차지했습니다."
+                        "hi": {
+                            "title": "**ईडीए** स्वास्थ्य जनसांख्यिकी पर",
+                            "info": "प्रौद्योगिकियाँ: पायस्पार्क, एज़्योर डेटाब्रिक्स, एज़्योर एचडीइंसाइट",
+                            "text": "एज़्योर डेटाब्रिक्स पर पायस्पार्क का उपयोग करके स्वास्थ्य जनसांख्यिकी पर अन्वेषणात्मक डेटा विश्लेषण किया।"
+                        },
+                        "sa": {
+                            "title": "**ईडीए** स्वास्थ्य जनसांख्यिकी पर",
+                            "info": "प्रविधयः: पायस्पार्क, एज़्योर डेटाब्रिक्स, एज़्योर एचडीइंसाइट",
+                            "text": "एज़्योर डेटाब्रिक्स पर पायस्पार्क का उपयोग करके स्वास्थ्य जनसांख्यिकी पर अन्वेषणात्मक डेटा विश्लेषणं कृतम्।"
                         }
                     }
                 },
                 {
                     "dates": {
-                        "start": "06/01/2023",
+                        "start": null,
                         "end": null
                     },
-                    "links": [
-                        { "string": "more_info", "href": "https://google.com" }
-                    ],
+                    "links": [],
                     "locales": {
                         "en": {
-                            "title": "**Best Backend Architecture** – Tech Innovator Awards",
-                            "info": "Tech Innovator Magazine",
-                            "text": "Recognized for designing an efficient and scalable backend architecture that improved system performance and reliability."
+                            "title": "**Self-Learning Chatbot**",
+                            "info": "Technologies: NLTK, TensorFlow",
+                            "text": "Developed a self-learning chatbot using NLTK and TensorFlow."
                         },
                         "es": {
-                            "title": "**Mejor Arquitectura de Backend** – Premios a los Innovadores Tecnológicos",
-                            "info": "Revista Tech Innovator",
-                            "text": "Reconocido por diseñar una arquitectura de backend eficiente y escalable que mejoró el rendimiento y la confiabilidad del sistema."
+                            "title": "**Chatbot Autodidacta**",
+                            "info": "Tecnologías: NLTK, TensorFlow",
+                            "text": "Desarrollé un chatbot autodidacta utilizando NLTK y TensorFlow."
                         },
-                        "fr": {
-                            "title": "**Meilleure Architecture Backend** – Prix de l'Innovateur Technologique",
-                            "info": "Magazine Tech Innovator",
-                            "text": "Reconnu pour avoir conçu une architecture backend efficace et évolutive qui a amélioré les performances et la fiabilité du système."
+                        "te": {
+                            "title": "**స్వయంగా నేర్చుకునే చాట్‌బాట్**",
+                            "info": "తంత్రాలు: NLTK, టెన్సర్‌ఫ్లో",
+                            "text": "NLTK మరియు TensorFlow ఉపయోగించి ఒక స్వయంగా నేర్చుకునే చాట్‌బాట్‌ను అభివృద్ధి చేశాను."
                         },
-                        "ko": {
-                            "title": "**최우수 백엔드 아키텍처** – 기술 혁신자 어워드",
-                            "info": "Tech Innovator 매거진",
-                            "text": "시스템 성능과 안정성을 개선한 효율적이고 확장 가능한 백엔드 아키텍처 설계로 인정받았습니다."
+                        "hi": {
+                            "title": "**स्व-सिखने वाला चैटबॉट**",
+                            "info": "प्रौद्योगिकियाँ: NLTK, टेन्सरफ्लो",
+                            "text": "NLTK और TensorFlow का उपयोग करके एक स्व-सिखने वाला चैटबॉट विकसित किया।"
+                        },
+                        "sa": {
+                            "title": "**स्वयमेव शिक्षण चाट् बोटः**",
+                            "info": "प्रविधयः: NLTK, टेन्सरफ्लो",
+                            "text": "NLTK च टेन्सरफ्लो उपयुज्य स्वयमेव शिक्षण चाट् बोटः विकसितः।"
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**Breast Cancer Prediction** Using Machine Learning",
+                            "info": "Technologies: Scikit-learn, Seaborn",
+                            "text": "Implemented a machine learning model for predicting breast cancer using Scikit-learn and Seaborn."
+                        },
+                        "es": {
+                            "title": "**Predicción de Cáncer de Mama** Usando Aprendizaje Automático",
+                            "info": "Tecnologías: Scikit-learn, Seaborn",
+                            "text": "Implementé un modelo de aprendizaje automático para predecir el cáncer de mama utilizando Scikit-learn y Seaborn."
+                        },
+                        "te": {
+                            "title": "**మామిడి క్యాన్సర్ అంచనా** యాంత్రిక అభ్యాసం ఉపయోగించడం",
+                            "info": "తంత్రాలు: స్కికిట్-లెర్న్, సీబోర్న్",
+                            "text": "స్కికిట్-లెర్న్ మరియు సీబోర్న్‌ను ఉపయోగించి మామిడి క్యాన్సర్‌ను అంచనా వేయడానికి యాంత్రిక అభ్యాస నమూనాను అమలు చేసాను."
+                        },
+                        "hi": {
+                            "title": "**स्तन कैंसर भविष्यवाणी** मशीन लर्निंग का उपयोग करके",
+                            "info": "प्रौद्योगिकियाँ: स्कीकीट-लर्न, सीबॉर्न",
+                            "text": "स्कीकीट-लर्न और सीबॉर्न का उपयोग करके स्तन कैंसर की भविष्यवाणी के लिए एक मशीन लर्निंग मॉडल लागू किया।"
+                        },
+                        "sa": {
+                            "title": "**स्तन कर्कटोपदर्शनं** यन्त्र शिक्षणेन",
+                            "info": "प्रविधयः: स्कीकीट-लर्न, सीबॉर्न",
+                            "text": "स्कीकीट-लर्न च सीबॉर्न उपयुज्य स्तन कर्कटोपदर्शनं यन्त्र शिक्षणमधिकृत्य कार्यम्।"
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**Fake News Detection** Using Machine Learning",
+                            "info": "Technologies: Scikit-learn, Seaborn",
+                            "text": "Developed a machine learning model for detecting fake news using Scikit-learn and Seaborn."
+                        },
+                        "es": {
+                            "title": "**Detección de Noticias Falsas** Usando Aprendizaje Automático",
+                            "info": "Tecnologías: Scikit-learn, Seaborn",
+                            "text": "Desarrollé un modelo de aprendizaje automático para detectar noticias falsas utilizando Scikit-learn y Seaborn."
+                        },
+                        "te": {
+                            "title": "**కեղծ వార్తల గుర్తింపు** యాంత్రిక అభ్యాసం ఉపయోగించడం",
+                            "info": "తంత్రాలు: స్కికిట్-లెర్న్, సీబోర్న్",
+                            "text": "స్కికిట్-లెర్న్ మరియు సీబోర్న్‌ను ఉపయోగించి కեղծ వార్తలను గుర్తించడానికి యాంత్రిక అభ్యాస నమూనాను అభివృద్ధి చేశాను."
+                        },
+                        "hi": {
+                            "title": "**फर्जी समाचार का पता लगाना** मशीन लर्निंग का उपयोग करके",
+                            "info": "प्रौद्योगिकियाँ: स्कीकीट-लर्न, सीबॉर्न",
+                            "text": "स्कीकीट-लर्न और सीबॉर्न का उपयोग करके फर्जी समाचार का पता लगाने के लिए एक मशीन लर्निंग मॉडल विकसित किया।"
+                        },
+                        "sa": {
+                            "title": "**मिथ्यापत्रस्य परिग्रहणं** यन्त्र शिक्षणेन",
+                            "info": "प्रविधयः: स्कीकीट-लर्न, सीबॉर्न",
+                            "text": "स्कीकीट-लर्न च सीबॉर्न उपयुज्य मिथ्यापत्रस्य परिग्रहणं यन्त्र शिक्षणेन कार्यम्।"
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**SQS to PostgreSQL**: Data Integration Project",
+                            "info": "Technologies: Python, AWS, Docker, PostgreSQL",
+                            "text": "Developed a data integration project to transfer data from SQS to PostgreSQL using Python, AWS, and Docker."
+                        },
+                        "es": {
+                            "title": "**SQS a PostgreSQL**: Proyecto de Integración de Datos",
+                            "info": "Tecnologías: Python, AWS, Docker, PostgreSQL",
+                            "text": "Desarrollé un proyecto de integración de datos para transferir datos de SQS a PostgreSQL utilizando Python, AWS y Docker."
+                        },
+                        "te": {
+                            "title": "**SQS నుండి PostgreSQLకు**: డేటా సమగ్రత ప్రాజెక్ట్",
+                            "info": "తంత్రాలు: పాథాన్, AWS, డాకర్, పోస్ట్‌గ్రెఎస్‌క్వెల్",
+                            "text": "Python, AWS, మరియు Dockerని ఉపయోగించి SQS నుండి PostgreSQLకు డేటాను బదిలీ చేయడానికి ఒక డేటా సమగ్రత ప్రాజెక్టును అభివృద్ధి చేసాను."
+                        },
+                        "hi": {
+                            "title": "**SQS से PostgreSQL तक**: डेटा इंटीग्रेशन प्रोजेक्ट",
+                            "info": "प्रौद्योगिकियाँ: पायथन, एज़्योर, डॉकर, पोस्टग्रेएसक्यूएल",
+                            "text": "पायथन, एज़्योर और डॉकर का उपयोग करके SQS से PostgreSQL में डेटा स्थानांतरित करने के लिए एक डेटा इंटीग्रेशन प्रोजेक्ट विकसित किया।"
+                        },
+                        "sa": {
+                            "title": "**SQS से PostgreSQL तक**: दत्तांश संयोजन परियोजना",
+                            "info": "प्रविधयः: पायथन, AWS, डॉकर, PostgreSQL",
+                            "text": "Python, AWS च डॉकर उपयुज्य SQS से PostgreSQL मध्ये दत्तांश परिवर्तनाय एक दत्तांश संयोजन परियोजना निर्मितम्।"
                         }
                     }
                 }
